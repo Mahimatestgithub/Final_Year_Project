@@ -80,7 +80,7 @@ It uses a combination of **computer vision**, **natural language processing**, *
 ## 🙌 Contributors
 
 - 👩‍💻 **Mahima Gupta** – Project Lead & Developer  
-- 🧑‍💻 **Divyanshu Kumar** – Team Member  
+- 🧑‍💻 **Divyanshu Kumar** – Core ML Developer & Systems Integrator
 - 👩‍💻 **Shruti Rani** – Team Member  
 - 👩‍💻 **Darakhshan Naheed** – Team Member  
 - 🧑‍💻 **Vimlendra Mishra** – Team Member  
