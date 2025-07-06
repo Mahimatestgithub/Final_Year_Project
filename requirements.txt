@@ -5,3 +5,13 @@ numpy
 opencv-python
 playsound
 scipy
+tensorflow
+tensorflow-cpu
+torch
+torchvision
+tqdm
+pandas
+flask
+flask-cors
+paho-mqtt
+requests
